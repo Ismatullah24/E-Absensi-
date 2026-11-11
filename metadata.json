@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix Sistem Absensi Kamera \u0026 QR Sekolah",
+  "description": "Aplikasi presensi dan absensi siswa \u0026 guru berbasis pemindaian kamera langsung, kartu QR, dan rekap data terpadu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
